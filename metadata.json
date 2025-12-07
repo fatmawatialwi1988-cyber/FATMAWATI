@@ -1,0 +1,5 @@
+{
+  "name": "PENILAIAN",
+  "description": "Digital worksheet for calculating Student Learning Objective Achievement (KKTP) for SMP Negeri Satap 3 Banawa Tengah, featuring automatic interval grading and CSV export.",
+  "requestFramePermissions": []
+}
